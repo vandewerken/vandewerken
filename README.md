@@ -19,7 +19,7 @@ Hi team! I'm Christian Van de Werken a.k.a. [gh057duck][0]. My pronouns are he /
 ## 💻 Tech background
 
 * **Languages / scripting:** Python, TypeScript (using Angular, Node.js, React), Solidity * *shudders... has nightmare flashbacks* *, Bash, SQL, HTML, CSS, Ducky / Bunny Script
-* **Software / tools:** Jenkins, Postman, Swagger, Git (obvi), PostgreSQL
+* **Software / tools:** Jenkins, Postman, Swagger, Git (obvi), PostgreSQL, Docker
 * **Cloud / infra:** former AWS fanboy with lots of SysAd experience: {EC2 / ECS, Lambda, Glue, Kinesis, S3, RDS, DynamoDB, SNS, ELB, Route53, CloudFront, WAF, API Gateway, IAM management}
 * **Currently learning:** my way around GCP (I'm a convert), C++, and the intricacies of Unreal Engine
 
