@@ -1,6 +1,6 @@
 # 👋 Intro
 
-Hi team! I'm Christian Van de Werken a.k.a. [@gh057duck][0]. I'm 🏳️‍🌈 and my pronouns are he / him. 
+Hi team! I'm Christian Van de Werken a.k.a. [@gh057duck][0] a.k.a. DJ Sassy. Proudly 🏳️‍🌈 and use he / him / *gurl*.
 
 ## ☀️ Day bio
 
@@ -14,13 +14,13 @@ Hi team! I'm Christian Van de Werken a.k.a. [@gh057duck][0]. I'm 🏳️‍🌈 
     * Acrylic painting
     * My fashion brand [Eccentric + Standard][2]
     * My new idea: [sequin.earth][3] (explores the intersection of fashion and tech)
-* Hobbies include fashion, yoga, [dogs][5], cooking, dance music, design, haircare, and standup comedy... not particularly in that order
+* Hobbies include fashion, yoga, [dogs][5], cooking, omakase, music, design, haircare, and standup comedy... not particularly in that order
 
 ## 💻 Tech background
 
 * **Languages / scripting:** Python, TypeScript (using Angular, Node.js, React), Solidity \**shudders... has nightmare flashbacks*\*, Bash, SQL, HTML, CSS, Ducky / Bunny Script
-* **Software / tools:** Jenkins, Postman, Swagger, Git (obvi), PostgreSQL, Docker, K8s
-* **Cloud / infra:** former AWS fanboy with lots of SysAd experience: {EC2 / ECS, Lambda, Glue, Kinesis, EKS, S3, RDS, DynamoDB, SNS, ELB, Route53, CloudFront, WAF, API Gateway, IAM management}
+* **Software / tools:** Jenkins, Postman, Swagger, Git (obvi), PostgreSQL, Docker, K8s / Helm
+* **Cloud / infra:** former AWS fanboy with lots of SysAd and dev experience: {EC2 / ECS, Lambda, Glue, Kinesis, EKS, S3, RDS, DynamoDB, SNS, ELB, Route53, CloudFront, WAF, API Gateway, IAM management}
 * **Currently learning:** my way around GCP (I'm a convert), C++, and the intricacies of Unreal Engine
 
 ## ☎️ Call me, beep me, if you wanna reach me...
