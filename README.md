@@ -24,7 +24,7 @@ Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / 
 
 ## ☎️ Call me, beep me, if you wanna reach me...
 
-* Find me on Instagram at [werkendesign][3]
+* Find me on Instagram at [Werken Design][3]
 * I can also be found at [werken.com][4]
 
 [0]: https://werken.com/bio
