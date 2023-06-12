@@ -10,7 +10,7 @@ Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / 
 ## 🌙 Night profile
 
 * Mixed media artist working on painting, illustration, and custom womenswear 
-* Hobbies include fashion, yoga, [dogs][3], cooking, omakase, music, design, haircare, skincare, and standup comedy... not particularly in that order
+* Hobbies include fashion, yoga, [dogs][3], cooking, art, omakase, music, design, haircare, skincare, and standup comedy... not particularly in that order
 
 ## 💻 Skills
 
