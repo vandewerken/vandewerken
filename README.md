@@ -17,14 +17,15 @@ Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / 
 * **Languages / scripting:** A whole lotta Python, TypeScript (using Angular, Node.js, React), Solidity \**shudders... has nightmare flashbacks*\*, Bash, SQL, HTML, CSS, Ducky / Bunny Script
 * **Software / tools:** Jenkins, Postman, Swagger, Git (obvi), PostgreSQL, Docker, K8s / Helm, Blender
 * **Cloud / infra:** AWS fanboy with lots of SysAd and dev experience: {EC2 / ECS, Lambda, Glue, Kinesis, EKS, S3, RDS, DynamoDB, SNS, ELB / ALB, Route53, CloudFront, WAF, API Gateway, IAM management}, Okta Auth0
-* **Currently learning:** C++ and the intricacies of Unreal Engine
+* **Currently learning:** Italian and C++
 
 ## ☎️ Call me, beep me, if you wanna reach me...
 
-* Find me on Instagram at [Werken Design][1]
-* I can also be found at [werken.com][2]
+* Online at [werken.com][2]
+* On Threads [@therealvdw][4]
 
 [0]: https://werken.com/bio
 [1]: https://www.instagram.com/werkendesign/
 [2]: https://werken.com
 [3]: https://gogo.werken.com
+[4]: https://www.threads.net/@therealvdw
