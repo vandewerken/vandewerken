@@ -11,6 +11,7 @@ Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / 
 
 * Mixed media artist working on painting, illustration, and custom womenswear 
 * Hobbies include fashion, yoga, [dogs][3], cooking, art, omakase, music, design, haircare, skincare, and standup comedy... not particularly in that order
+* Always creating something cool @ [cvdw.xyz][4]
 
 ## 💻 Skills
 
@@ -22,10 +23,11 @@ Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / 
 ## ☎️ Call me, beep me, if you wanna reach me...
 
 * Online at [werken.com][2]
-* On Threads [@therealvdw][4]
+* On Threads [@therealvdw][5]
 
 [0]: https://werken.com/bio
 [1]: https://www.instagram.com/werkendesign/
 [2]: https://werken.com
 [3]: https://gogo.werken.com
-[4]: https://www.threads.net/@therealvdw
+[4]: https://cvdw.xyz/
+[5]: https://www.threads.net/@therealvdw
