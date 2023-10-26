@@ -24,13 +24,11 @@ Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / 
 ## ☎️ Call me, beep me, if you wanna reach me...
 
 * Online at [werken.com][2]
-* On Threads [@therealvdw][5]
-* On Bluesky [@therealvdw.bsky.social][6]
+* On Bluesky [@therealvdw.bsky.social][5]
 
 [0]: https://werken.com/bio
 [1]: https://www.instagram.com/werkendesign/
 [2]: https://werken.com
 [3]: https://gogo.werken.com
 [4]: https://cvdw.xyz/
-[5]: https://www.threads.net/@therealvdw
-[6]: https://bsky.app/profile/therealvdw.bsky.social
+[5]: https://bsky.app/profile/therealvdw.bsky.social
