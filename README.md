@@ -1,6 +1,6 @@
 # 👋 Intro
 
-Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / *gurl*. My full bio is at [werken.com/bio][0].
+Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / *gurl*. 
 
 ## ☀️ Day profile
 
@@ -9,7 +9,7 @@ Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / 
 
 ## 🌙 Night profile
 
-* Mixed media artist working on painting, illustration, and custom womenswear 
+* Mixed media artist working on painting, illustration, and other physical fashion-oriented mediums  
 * Hobbies include fashion, yoga, [dogs][3], cooking, art, omakase, music, design, haircare, skincare, and standup comedy... not particularly in that order
 * Always creating something cool @ [cvdw.xyz][4]
 
@@ -26,7 +26,6 @@ Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / 
 * Online at [werken.com][2]
 * On Bluesky [@therealvdw.bsky.social][5]
 
-[0]: https://werken.com/bio
 [1]: https://www.instagram.com/werkendesign/
 [2]: https://werken.com
 [3]: https://gogo.werken.com
