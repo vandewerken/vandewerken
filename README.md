@@ -15,10 +15,10 @@ Hi team! I'm Christian Van de Werken. Proudly 🏳️‍🌈 and use he / him / 
 
 ## 💻 Skills
 
-* **Languages / scripting:** A whole lotta Python, TypeScript (mostly using Angular and Node.js, but occasionally React), Solidity \**shudders... has nightmare flashbacks*\*, Bash, SQL, HTML, CSS / SCSS, Ducky / Bunny Script
+* **Languages / scripting:** A whole lotta Python, TypeScript (mostly using Angular and Node.js, but occasionally React and Expo), Solidity \**shudders... has nightmare flashbacks*\*, Bash, SQL, HTML, CSS / SCSS, Ducky / Bunny Script
 * **Software / tools:** Jenkins, Postman, Swagger, Git (obvi), PostgreSQL, Docker, K8s / Helm, Blender, Truffle, Ganache
 * **Cloud / infra:** AWS fanboy with lots of SysAd and dev experience: {EC2 / ECS, Lambda, Glue, Kinesis, EKS, S3, RDS, DynamoDB, SNS, ELB / ALB, Route53, CloudFront, WAF, API Gateway, IAM management, SageMaker}, Okta Auth0, HashiCorp Vault, OpenAI API
-* **Haven't worked with yet but want to:** Spark, PyTorch, JAX
+* **Haven't worked with yet but want to:** Spark, PyTorch, JAX, three.js
 * **Currently learning:** Italian and C++
 
 ## ☎️ Call me, beep me, if you wanna reach me...
